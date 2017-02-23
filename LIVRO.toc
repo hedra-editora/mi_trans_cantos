@@ -1,0 +1,29 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Apresentação}{7}
+\contentsline {chapter}{Como foi feito este livro\emph {, por{} Anne Ballester Soares}}{9}
+\contentsline {chapter}{Para ler as palavras yanomami}{13}
+\contentsline {part}{A árvore dos cantos}{15}
+\contentsline {chapter}{A {árvore} {dos} {cantos}}{17}
+\contentsline {chapter}{{Amoa} {hi} ã {he} {rë} {haanowehei}}{21}
+\contentsline {chapter}{{Monstro} {këyakëya}}{25}
+\contentsline {chapter}{{Këyakëya}}{31}
+\contentsline {chapter}{O {surgimento} {das} {cobras}}{35}
+\contentsline {chapter}{{Të} {pë} {rë} {oruprarionowei}}{41}
+\contentsline {chapter}{A onça e a centopeia}{47}
+\contentsline {chapter}{Ɨ{ra} {xo}, {wapororitawë} {xo} kɨ {he} {haap}ɨɨ}{49}
+\contentsline {chapter}{A {onça} e o {tatu}}{51}
+\contentsline {chapter}{Ɨ{ra} {xo}, {opo} {xo} kɨ {he} {haap}ɨɨ}{55}
+\contentsline {chapter}{A {multiplicação} {das} {onças}}{59}
+\contentsline {chapter}{{Ɨra pë rë pararoyonowei}}{63}
+\contentsline {chapter}{{Minhocão}}{67}
+\contentsline {chapter}{{Horemariwë}}{77}
+\contentsline {chapter}{O {pássaro} {popomari}}{87}
+\contentsline {chapter}{{Popomaritawë}}{89}
+\contentsline {chapter}{O {surgimento} {da} {flecha}}{91}
+\contentsline {chapter}{{Xereka} a {rë} {kuprarionowei}}{93}
+\contentsline {chapter}{{Antes} {do} {surgimento} {do} {terçado}}{95}
+\contentsline {chapter}{{Sipara} a {rë} {kuprarionowei}}{97}
+\contentsline {chapter}{O {corte} {dos} {cabelos}}{99}
+\contentsline {chapter}{{Të} {pë} {hemakasi} {pëyomou} {rë} {hapamonowei}}{101}
+\contentsfinish 
