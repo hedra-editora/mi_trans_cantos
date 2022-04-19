@@ -15,8 +15,7 @@
 *.4tc 
 *.html 
 *.css 
-*.dvi 
-*.epub 
+*.dvi  
 *.lg 
 *.ncx 
 *.xref 
