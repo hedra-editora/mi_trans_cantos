@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  9 JAN 2025 16:45
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  9 JAN 2025 17:13
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1512,19 +1512,19 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (Ɨ);
-(lettrine.sty)             reported on input line 644.
+(lettrine.sty)             reported on input line 643.
  [41] [42
 
 ]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.43068pt (É);
-(lettrine.sty)             reported on input line 672.
+(lettrine.sty)             reported on input line 671.
  [43] [44]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (O);
-(lettrine.sty)             reported on input line 736.
+(lettrine.sty)             reported on input line 735.
  [45
 
 ]
@@ -1532,21 +1532,21 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.54453pt (E);
-(lettrine.sty)             reported on input line 798.
+(lettrine.sty)             reported on input line 797.
  [47
 
 ] [48]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (Ɨ);
-(lettrine.sty)             reported on input line 851.
+(lettrine.sty)             reported on input line 850.
  [49
 
 ] [50]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (A);
-(lettrine.sty)             reported on input line 912.
+(lettrine.sty)             reported on input line 911.
  [51
 
 ] [52] [53] [54] [55] [56] [57] [58
@@ -1555,13 +1555,13 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (Ai);
-(lettrine.sty)             reported on input line 1174.
+(lettrine.sty)             reported on input line 1173.
  [59] [60]
 [61] [62] [63] [64]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (H);
-(lettrine.sty)             reported on input line 1431.
+(lettrine.sty)             reported on input line 1430.
  [65
 
 ] [66
@@ -1570,35 +1570,35 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (Y);
-(lettrine.sty)             reported on input line 1454.
+(lettrine.sty)             reported on input line 1453.
  [67] [68
 
 ]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (A);
-(lettrine.sty)             reported on input line 1476.
+(lettrine.sty)             reported on input line 1475.
  [69] [70
 
 ]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (X);
-(lettrine.sty)             reported on input line 1503.
+(lettrine.sty)             reported on input line 1502.
  [71] [72
 
 ]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (Q);
-(lettrine.sty)             reported on input line 1529.
+(lettrine.sty)             reported on input line 1528.
  [73] [74
 
 ]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (S);
-(lettrine.sty)             reported on input line 1544.
+(lettrine.sty)             reported on input line 1543.
  [75]
 [76
 
@@ -1606,14 +1606,14 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (Q);
-(lettrine.sty)             reported on input line 1557.
+(lettrine.sty)             reported on input line 1556.
  [77] [78
 
 ]
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (H);
-(lettrine.sty)             reported on input line 1579.
+(lettrine.sty)             reported on input line 1578.
 ) (./Y-publicidade.tex [79] [80] [81] [82] [83] [84]) [85]
 (./Z-colofon.tex [86] [87])) [88]
 
@@ -1653,7 +1653,7 @@ Here is how much of LuaTeX's memory you used:
 c, 19 attribute_list, 3 shape, 4 write, 4 pdf_colorstack nodes
    avail lists: 2:1953,3:229,4:124,5:1602,6:58,7:3717,8:2,9:391,10:25,11:312
  39711 multiletter control sequences out of 65536+600000
- 118 fonts using 24594375 bytes
+ 118 fonts using 24593975 bytes
  60i,12n,102p,1347b,426s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/LinLibertine_R.otf></Users/suzana/Library/Fonts/LinLibe
@@ -1663,7 +1663,7 @@ ular-Bold.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmon
 o8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/O
 rnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
 latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (88 pages, 257238 bytes).
+Output written on LIVRO.pdf (88 pages, 257282 bytes).
 
 PDF statistics: 336 PDF objects out of 1000 (max. 8388607)
  221 compressed objects within 3 object streams
