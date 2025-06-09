@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.5.16)  9 JUN 2025 17:30
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.5.16)  9 JUN 2025 17:49
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1391,10 +1391,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--41
 <LOGO_CDL.png, id=19, 321.8424pt x 52.2753pt>
 File: LOGO_CDL.png Graphic file (type png)
 <use LOGO_CDL.png>
-Package luatex.def Info: LOGO_CDL.png  used on input line 67.
+Package luatex.def Info: LOGO_CDL.png  used on input line 63.
 (luatex.def)             Requested size: 82.50084pt x 13.39981pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--72
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
 [] 
  []
 
@@ -1648,7 +1648,7 @@ e/.fonts/Formular-regular-mi.otf></home/baudelaire/.fonts/Formular-bold-mi.otf><
 /usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texliv
 e/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (80 pages, 247488 bytes).
+Output written on LIVRO.pdf (80 pages, 247466 bytes).
 
 PDF statistics: 318 PDF objects out of 1000 (max. 8388607)
  208 compressed objects within 3 object streams
