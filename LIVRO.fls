@@ -1,4 +1,4 @@
-PWD /home/baudelaire/revisão dos indígenas/mi_trans_cantos
+PWD /home/cristina-yamazaki/github/mi_trans_cantos
 INPUT /var/lib/texmf/web2c/luahbtex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
@@ -15,7 +15,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-extended.lua
 INPUT /usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-extended-merged.lua
 INPUT /usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-log.lua
 INPUT /usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-basics-gen.lua
-OUTPUT /home/baudelaire/.texlive2023/texmf-var/m_t_x_t_e_s_t.tmp
+OUTPUT /home/cristina-yamazaki/.texlive2023/texmf-var/m_t_x_t_e_s_t.tmp
 INPUT /usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-parsers.lua
 INPUT /usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-configuration.lua
 INPUT /usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-status.lua
@@ -67,8 +67,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/memoir/mem11.clo
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty
@@ -82,7 +82,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.st
 INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-regular.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-regular.luc
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/shortvrb.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
@@ -102,7 +102,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.lua
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
@@ -220,14 +220,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
 INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/pt/babel-pt.ini
 INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel-transforms.lua
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/formular-bold-mi.luc
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/formular-italic.luc
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-ri.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/formular-bold-mi.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/formular-italic.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-ri.luc
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
 OUTPUT LIVRO.aux
@@ -239,8 +239,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 OUTPUT INPUTS.aux
 INPUT ./INPUTS.tex
 INPUT ./1-fronte.tex
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./2-creditos.tex
@@ -276,7 +276,7 @@ INPUT ./TEXTO.tex
 INPUT ./Y-publicidade.tex
 INPUT ./Z-colofon.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
-INPUT /home/baudelaire/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
+INPUT /home/cristina-yamazaki/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux

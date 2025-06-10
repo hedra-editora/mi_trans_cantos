@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.5.16)  9 JUN 2025 17:49
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.5.19)  9 JUN 2025 23:48
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -8,8 +8,8 @@ Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
 ollection.
-luaotfload | conf : Root cache directory is "/home/baudelaire/.texlive2023/texmf
--var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/cristina-yamazaki/.texlive202
+3/texmf-var/luatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
 olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
 08-19.lua".
@@ -20,8 +20,8 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/home/baudelaire/.texlive2023/texmf
--var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/cristina-yamazaki/.texlive202
+3/texmf-var/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -76,8 +76,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/mem11.clo
 File: mem11.clo 2022/07/29 v0.5 memoir class 11pt size option
-luaotfload | db : Font names database loaded from /home/baudelaire/.texlive2023/
-texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+luaotfload | db : Font names database loaded from /home/cristina-yamazaki/.texli
+ve2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \binding=\skip53
 \spinemargin=\skip54
 \foremargin=\skip55
@@ -436,90 +436,90 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 \l@nohyphenation=\language3
 \l@vietnamese=\language4
 \l@hebrew=\language5
-\l@finnish=\language6
-\l@schoolfinnish=\language7
-\l@ngerman-x-2023-03-06=\language8
-\l@serbianc=\language9
-\l@catalan=\language10
-\l@german=\language11
-\l@romansh=\language12
-\l@macedonian=\language13
-\l@mongolianlmc=\language14
-\l@gujarati=\language15
-\l@bengali=\language16
-\l@turkish=\language17
-\l@ukenglish=\language18
-\l@telugu=\language19
-\l@assamese=\language20
-\l@mongolian=\language21
-\l@bokmal=\language22
-\l@romanian=\language23
-\l@interlingua=\language24
-\l@slovenian=\language25
-\l@churchslavonic=\language26
-\l@piedmontese=\language27
-\l@nynorsk=\language28
-\l@serbian=\language29
-\l@thai=\language30
-\l@coptic=\language31
-\l@dutch=\language32
-\l@esperanto=\language33
-\l@belarusian=\language34
-\l@latin=\language35
-\l@czech=\language36
-\l@ngerman=\language37
-\l@occitan=\language38
-\l@marathi=\language39
-\l@pinyin=\language40
-\l@liturgicallatin=\language41
-\l@french=\language42
-\l@portuguese=\language43
-\l@friulan=\language44
-\l@sanskrit=\language45
-\l@bulgarian=\language46
-\l@indonesian=\language47
-\l@greek=\language48
-\l@welsh=\language49
-\l@pali=\language50
-\l@georgian=\language51
-\l@afrikaans=\language52
-\l@malayalam=\language53
-\l@latvian=\language54
-\l@russian=\language55
-\l@monogreek=\language56
-\l@estonian=\language57
-\l@basque=\language58
-\l@slovak=\language59
-\l@swissgerman=\language60
-\l@hindi=\language61
-\l@irish=\language62
-\l@danish=\language63
-\l@usenglishmax=\language64
-\l@kannada=\language65
-\l@kurmanji=\language66
-\l@hungarian=\language67
-\l@german-x-2023-03-06=\language68
-\l@armenian=\language69
-\l@polish=\language70
+\l@ngerman=\language6
+\l@estonian=\language7
+\l@german=\language8
+\l@occitan=\language9
+\l@finnish=\language10
+\l@marathi=\language11
+\l@assamese=\language12
+\l@bengali=\language13
+\l@macedonian=\language14
+\l@thai=\language15
+\l@danish=\language16
+\l@russian=\language17
+\l@romansh=\language18
+\l@french=\language19
+\l@hungarian=\language20
+\l@turkmen=\language21
+\l@galician=\language22
+\l@greek=\language23
+\l@serbianc=\language24
+\l@lithuanian=\language25
+\l@indonesian=\language26
+\l@bokmal=\language27
+\l@ukrainian=\language28
+\l@swedish=\language29
+\l@interlingua=\language30
+\l@belarusian=\language31
+\l@czech=\language32
+\l@pinyin=\language33
+\l@sanskrit=\language34
+\l@telugu=\language35
+\l@usenglishmax=\language36
+\l@farsi=\language37
+\l@schoolfinnish=\language38
+\l@basque=\language39
+\l@polish=\language40
+\l@tamil=\language41
+\l@afrikaans=\language42
+\l@slovenian=\language43
+\l@liturgicallatin=\language44
+\l@irish=\language45
+\l@arabic=\language46
+\l@esperanto=\language47
+\l@slovak=\language48
+\l@catalan=\language49
+\l@icelandic=\language50
+\l@romanian=\language51
+\l@ethiopic=\language52
+\l@dutch=\language53
+\l@coptic=\language54
+\l@ukenglish=\language55
+\l@hindi=\language56
+\l@swissgerman=\language57
+\l@uppersorbian=\language58
+\l@ngerman-x-2023-03-06=\language59
+\l@ancientgreek=\language60
+\l@panjabi=\language61
+\l@armenian=\language62
+\l@serbian=\language63
+\l@kurmanji=\language64
+\l@piedmontese=\language65
+\l@kannada=\language66
+\l@bulgarian=\language67
+\l@malayalam=\language68
+\l@nynorsk=\language69
+\l@classiclatin=\language70
 \l@spanish=\language71
-\l@panjabi=\language72
-\l@ukrainian=\language73
-\l@arabic=\language74
-\l@swedish=\language75
-\l@croatian=\language76
-\l@lithuanian=\language77
-\l@tamil=\language78
-\l@uppersorbian=\language79
-\l@italian=\language80
-\l@oriya=\language81
-\l@farsi=\language82
-\l@galician=\language83
-\l@turkmen=\language84
-\l@icelandic=\language85
-\l@ancientgreek=\language86
-\l@classiclatin=\language87
-\l@ibycus=\language88
-\l@ethiopic=\language89
+\l@german-x-2023-03-06=\language72
+\l@churchslavonic=\language73
+\l@croatian=\language74
+\l@monogreek=\language75
+\l@turkish=\language76
+\l@pali=\language77
+\l@latin=\language78
+\l@ibycus=\language79
+\l@latvian=\language80
+\l@portuguese=\language81
+\l@friulan=\language82
+\l@italian=\language83
+\l@gujarati=\language84
+\l@mongolianlmc=\language85
+\l@mongolian=\language86
+\l@welsh=\language87
+\l@oriya=\language88
+\l@georgian=\language89
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
@@ -533,7 +533,7 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 (/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/brazilian.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
-(babel)             (\language43). Reported on input line 111.
+(babel)             (\language81). Reported on input line 111.
 Package babel Info: Making " an active character on input line 143.
 
 (/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-pt.tex
@@ -1135,8 +1135,8 @@ e=dflt;"
 =dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
-luaotfload | cache : Lookup cache loaded from /home/baudelaire/.texlive2023/texm
-f-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from /home/cristina-yamazaki/.texlive20
+23/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
 Package fontspec Info: Font family 'LinuxLibertineO(0)' created for font
 (fontspec)             'Linux Libertine O' with options
@@ -1640,15 +1640,16 @@ df_colorstack nodes
  46402 multiletter control sequences out of 65536+600000
  127 fonts using 32142599 bytes
  85i,16n,99p,1375b,382s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ba
-udelaire/.fonts/Formular-Italic.otf></home/baudelaire/.fonts/Linux Libertine O/L
-inLibertine_R.otf></home/baudelaire/.fonts/Linux Libertine O/LinLibertine_RB.otf
-></home/baudelaire/.fonts/Linux Libertine O/LinLibertine_RI.otf></home/baudelair
-e/.fonts/Formular-regular-mi.otf></home/baudelaire/.fonts/Formular-bold-mi.otf><
-/usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texliv
-e/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (80 pages, 247466 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/cr
+istina-yamazaki/.fonts/Formular-Italic.otf></home/cristina-yamazaki/.fonts/Linux
+ Libertine O/LinLibertine_R.otf></home/cristina-yamazaki/.fonts/Linux Libertine 
+O/LinLibertine_RB.otf></home/cristina-yamazaki/.fonts/Linux Libertine O/LinLiber
+tine_RI.otf></home/cristina-yamazaki/.fonts/Formular-regular-mi.otf></home/crist
+ina-yamazaki/.fonts/Formular-bold-mi.otf></usr/share/texmf/fonts/opentype/public
+/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis/adfo
+rn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/l
+atxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (80 pages, 247500 bytes).
 
 PDF statistics: 318 PDF objects out of 1000 (max. 8388607)
  208 compressed objects within 3 object streams
