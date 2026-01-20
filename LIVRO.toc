@@ -1,0 +1,30 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Nota da organizadora}{9}{}%
+\contentsline {chapter}{Como foi feito este livro}{11}{}%
+\contentsline {section}{da transcrição à tradução}{11}{}%
+\contentsline {section}{a publicação}{12}{}%
+\contentsline {chapter}{Para ler as palavras yanomami}{13}{}%
+\contentsline {part}{A árvore dos cantos}{15}{}%
+\contentsline {chapter}{A árvore dos cantos}{17}{}%
+\contentsline {chapter}{Amoa hi ã he rë haanowehei}{21}{}%
+\contentsline {chapter}{Monstro Këyakëya}{25}{}%
+\contentsline {chapter}{Këyakëya}{29}{}%
+\contentsline {chapter}{O surgimento das cobras}{33}{}%
+\contentsline {chapter}{Të pë rë oruprarionowei}{37}{}%
+\contentsline {chapter}{A Onça e a Centopeia}{41}{}%
+\contentsline {chapter}{Ɨra xo, wapororitawë xo kɨ he haapɨɨ}{43}{}%
+\contentsline {chapter}{A Onça e o Tatu}{45}{}%
+\contentsline {chapter}{Ɨra xo, opo xo kɨ he haapɨɨ}{47}{}%
+\contentsline {chapter}{A multiplicação das onças}{49}{}%
+\contentsline {chapter}{Ɨra pë rë pararoyonowei}{51}{}%
+\contentsline {chapter}{Minhocão}{53}{}%
+\contentsline {chapter}{Horemariwë}{59}{}%
+\contentsline {chapter}{O pássaro \textit {popomari}}{65}{}%
+\contentsline {chapter}{Popomaritawë}{67}{}%
+\contentsline {chapter}{O surgimento da flecha}{69}{}%
+\contentsline {chapter}{Xereka a rë kuprarionowei}{71}{}%
+\contentsline {chapter}{Antes do surgimento do terçado}{73}{}%
+\contentsline {chapter}{Sipara a rë kuprarionowei}{75}{}%
+\contentsline {chapter}{O corte dos cabelos}{77}{}%
+\contentsline {chapter}{Të pë hemakasi pëyomou rë hapamonowei}{79}{}%
+\babel@toc {brazilian}{}\relax 
