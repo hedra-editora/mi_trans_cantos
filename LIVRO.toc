@@ -18,13 +18,13 @@
 \contentsline {chapter}{A multiplicação das onças}{49}{}%
 \contentsline {chapter}{Ɨra pë rë pararoyonowei}{51}{}%
 \contentsline {chapter}{Minhocão}{53}{}%
-\contentsline {chapter}{Horemariwë}{59}{}%
-\contentsline {chapter}{O pássaro \textit {popomari}}{65}{}%
-\contentsline {chapter}{Popomaritawë}{67}{}%
-\contentsline {chapter}{O surgimento da flecha}{69}{}%
-\contentsline {chapter}{Xereka a rë kuprarionowei}{71}{}%
-\contentsline {chapter}{Antes do surgimento do terçado}{73}{}%
-\contentsline {chapter}{Sipara a rë kuprarionowei}{75}{}%
-\contentsline {chapter}{O corte dos cabelos}{77}{}%
-\contentsline {chapter}{Të pë hemakasi pëyomou rë hapamonowei}{79}{}%
+\contentsline {chapter}{Horemariwë}{61}{}%
+\contentsline {chapter}{O pássaro \textit {popomari}}{67}{}%
+\contentsline {chapter}{Popomaritawë}{69}{}%
+\contentsline {chapter}{O surgimento da flecha}{71}{}%
+\contentsline {chapter}{Xereka a rë kuprarionowei}{73}{}%
+\contentsline {chapter}{Antes do surgimento do terçado}{75}{}%
+\contentsline {chapter}{Sipara a rë kuprarionowei}{77}{}%
+\contentsline {chapter}{O corte dos cabelos}{79}{}%
+\contentsline {chapter}{Të pë hemakasi pëyomou rë hapamonowei}{81}{}%
 \babel@toc {brazilian}{}\relax 
