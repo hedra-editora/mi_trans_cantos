@@ -255,6 +255,7 @@ INPUT /Users/ana.appy/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/
 INPUT ./PRETAS.tex
 INPUT ./LIVRO.toc
 INPUT ./NOTA.tex
+INPUT ./FEITO.tex
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -264,7 +265,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT ./FEITO.tex
 INPUT ./YANOMAMI.tex
 INPUT ./TEXTO.tex
 INPUT ./Y-publicidade.tex
