@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  6 APR 2026 16:44
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  6 APR 2026 17:18
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1489,11 +1489,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 Inserting `luaotfload.letterspace' in `pre_linebreak_filter'.
 Inserting `luaotfload.letterspace' in `hpack_filter'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 56.
+(Font)              <10.95> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 56.
+(Font)              <8> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 56.
+(Font)              <6> on input line 54.
 ) (./YANOMAMI.tex
 
 [12]) (./TEXTO.tex
@@ -1897,7 +1897,7 @@ ular-bold-mi.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lm
 mono8-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/type1/arkandis/adfor
 n/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
 ts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (88 pages, 716063 bytes).
+Output written on LIVRO.pdf (88 pages, 715978 bytes).
 
 PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
  225 compressed objects within 3 object streams
