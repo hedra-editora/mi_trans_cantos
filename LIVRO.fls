@@ -213,6 +213,9 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplo
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
+INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/pt/babel-pt.ini
+INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel-transforms.lua
 INPUT /Users/ana.appy/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc
 INPUT /Users/ana.appy/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/formular-bold-mi.luc
 INPUT /Users/ana.appy/Library/texlive/2025/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc

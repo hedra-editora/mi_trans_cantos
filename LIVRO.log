@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  6 APR 2026 17:43
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  7 APR 2026 17:52
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1111,6 +1111,14 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/pt/babel-portugues
+e.tex
+Package babel Info: Importing basic data for portuguese
+(babel)             from babel-pt.ini. Reported on input line 11.
+)
+\bbl@attr@hboxed=\attribute5
+Inserting `Babel.hyphenate' in `hyphenate'.
+\bbl@ATR@hyphen.repeat@portuguese@=\attribute6
 
 Package fontspec Info: 
 (fontspec)             Font family 'Formular-regular-mi.otf(0)' created for
@@ -1196,22 +1204,22 @@ cp;"
  (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -1219,64 +1227,64 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 75.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 75.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 75.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 75.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 75.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 75.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 75.
-LaTeX Font Info:    Redeclaring math accent \check on input line 75.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 75.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 75.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 75.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 75.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 77.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 77.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 77.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 77.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 77.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 77.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 77.
+LaTeX Font Info:    Redeclaring math accent \check on input line 77.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 77.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 77.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 77.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 77.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 75.
+(Font)              `operators' in the math version `normal' on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line
- 75.
+ 77.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 75.
+(Font)              `operators' in the math version `bold' on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input lin
-e 75.
+e 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n
- on input line 75.
+ on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input li
-ne 75.
+ne 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/b/n on input lin
-e 75.
+e 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 75.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 75.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/b/n
- on input line 75.
+ on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/b/it on input l
-ine 75.
+ine 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 75.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 75.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 77.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1300,23 +1308,23 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 75.
-Package microtype Info: Applying patch `item' on input line 75.
-Package microtype Info: Applying patch `toc' on input line 75.
-Package microtype Info: Applying patch `eqnum' on input line 75.
+LaTeX Info: Redefining \microtypecontext on input line 77.
+Package microtype Info: Applying patch `item' on input line 77.
+Package microtype Info: Applying patch `toc' on input line 77.
+Package microtype Info: Applying patch `eqnum' on input line 77.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 75.
+Package microtype Warning: Unable to apply patch `footnote' on input line 77.
 
-Package microtype Info: Applying patch `verbatim' on input line 75.
-LaTeX Info: Redefining \microtypesetup on input line 75.
+Package microtype Info: Applying patch `verbatim' on input line 77.
+LaTeX Info: Redefining \microtypesetup on input line 77.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 75.
+LaTeX Info: Redefining \showhyphens on input line 77.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1497,12 +1505,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ) (./YANOMAMI.tex
 
 [12]) (./TEXTO.tex
-Overfull \hbox (5.44902pt too wide) in paragraph at lines 8--1
+Overfull \hbox (5.44902pt too wide) in paragraph at lines 8--4
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--1
+Underfull \hbox (badness 10000) in paragraph at lines 8--4
 
  []
 
@@ -1522,7 +1530,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--1
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (N);
-(lettrine.sty)             reported on input line 5.
+(lettrine.sty)             reported on input line 9.
 
 
 [17
@@ -1539,7 +1547,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (A);
-(lettrine.sty)             reported on input line 99.
+(lettrine.sty)             reported on input line 103.
 
 
 [21]
@@ -1554,7 +1562,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (H);
-(lettrine.sty)             reported on input line 191.
+(lettrine.sty)             reported on input line 196.
 
 
 [25]
@@ -1567,7 +1575,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (K);
-(lettrine.sty)             reported on input line 293.
+(lettrine.sty)             reported on input line 298.
 
 
 [29
@@ -1584,13 +1592,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (N);
-(lettrine.sty)             reported on input line 393.
-
-Overfull \hbox (22.73286pt too wide) in paragraph at lines 393--400
-\TU/LinuxLibertineO(0)/m/n/10.95 ras-te-jam hoje, elas vi-viam como os Ya-no-mam
-i. Transformaram-
- []
-
+(lettrine.sty)             reported on input line 398.
 
 
 [33]
@@ -1603,7 +1605,7 @@ i. Transformaram-
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (O);
-(lettrine.sty)             reported on input line 509.
+(lettrine.sty)             reported on input line 513.
 
 
 [37
@@ -1620,7 +1622,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (N);
-(lettrine.sty)             reported on input line 619.
+(lettrine.sty)             reported on input line 623.
 
 
 [41]
@@ -1631,7 +1633,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (Ɨ);
-(lettrine.sty)             reported on input line 644.
+(lettrine.sty)             reported on input line 648.
 
 
 [43]
@@ -1642,7 +1644,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.43068pt (É);
-(lettrine.sty)             reported on input line 672.
+(lettrine.sty)             reported on input line 676.
 
 
 [45]
@@ -1651,7 +1653,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (O);
-(lettrine.sty)             reported on input line 736.
+(lettrine.sty)             reported on input line 740.
 
 
 [47
@@ -1662,11 +1664,11 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.54453pt (E);
-(lettrine.sty)             reported on input line 798.
+(lettrine.sty)             reported on input line 802.
 
-Underfull \hbox (badness 6364) in paragraph at lines 818--821
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Sur-gi-ram as onças-suçuaranas, as onças-s
-uçuaranas-
+Underfull \hbox (badness 6364) in paragraph at lines 822--825
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Sur-gi-ram as onças--suçuaranas, as onças-
+-suçuaranas-
  []
 
 
@@ -1679,7 +1681,7 @@ uçuaranas-
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (Ɨ);
-(lettrine.sty)             reported on input line 851.
+(lettrine.sty)             reported on input line 855.
 
 
 [51
@@ -1690,7 +1692,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (A);
-(lettrine.sty)             reported on input line 912.
+(lettrine.sty)             reported on input line 916.
 
 
 [53
@@ -1715,7 +1717,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (A);
-(lettrine.sty)             reported on input line 1174.
+(lettrine.sty)             reported on input line 1178.
 
 
 [61]
@@ -1732,12 +1734,12 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 
 LaTeX Font Warning: Font shape `TU/Formular-regular-mi.otf(0)/m/it' undefined
 (Font)              using `TU/Formular-regular-mi.otf(0)/m/n' instead on input 
-line 1429.
+line 1433.
 
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (H);
-(lettrine.sty)             reported on input line 1431.
+(lettrine.sty)             reported on input line 1435.
 
 
 [67
@@ -1750,7 +1752,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (Y);
-(lettrine.sty)             reported on input line 1454.
+(lettrine.sty)             reported on input line 1458.
 
 
 [69]
@@ -1761,7 +1763,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (A);
-(lettrine.sty)             reported on input line 1476.
+(lettrine.sty)             reported on input line 1480.
 
 
 [71]
@@ -1772,7 +1774,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (X);
-(lettrine.sty)             reported on input line 1503.
+(lettrine.sty)             reported on input line 1507.
 
 
 [73]
@@ -1783,7 +1785,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (Q);
-(lettrine.sty)             reported on input line 1529.
+(lettrine.sty)             reported on input line 1533.
 
 
 [75]
@@ -1794,7 +1796,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (S);
-(lettrine.sty)             reported on input line 1544.
+(lettrine.sty)             reported on input line 1548.
 
 
 [77]
@@ -1805,7 +1807,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.8017pt (Q);
-(lettrine.sty)             reported on input line 1557.
+(lettrine.sty)             reported on input line 1561.
 
 
 [79]
@@ -1816,7 +1818,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 Package lettrine.sty Info: Targeted height = 18.6589pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.48738pt (H);
-(lettrine.sty)             reported on input line 1579.
+(lettrine.sty)             reported on input line 1583.
 ) (./Y-publicidade.tex
 
 [81]
@@ -1886,16 +1888,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25282 strings out of 475506
- 125061,1373583 words of node,token memory allocated
- 1528 words of node memory still in use:
-   8 hlist, 1 vlist, 2 rule, 1 local_par, 13 glue, 5 kern, 1 penalty, 7 glyph, 4
-9 attribute, 198 glue_spec, 26 attribute_list, 3 shape, 5 write, 4 pdf_colorstac
-k nodes
-   avail lists: 1:3,2:3057,3:531,4:257,5:1173,6:192,7:7819,8:3,9:863,10:32,11:75
-7
- 47576 multiletter control sequences out of 65536+600000
- 104 fonts using 24901511 bytes
+ 25398 strings out of 475506
+ 156328,1373583 words of node,token memory allocated
+ 4745 words of node memory still in use:
+   8 hlist, 1 vlist, 2 rule, 70 disc, 1 local_par, 12 glue, 5 kern, 1 penalty, 1
+47 glyph, 611 attribute, 198 glue_spec, 201 attribute_list, 3 shape, 5 write, 4 
+pdf_colorstack nodes
+   avail lists: 1:7,2:23624,3:531,4:257,5:1177,6:197,7:7819,8:3,9:863,10:32,11:6
+01
+ 47685 multiletter control sequences out of 65536+600000
+ 105 fonts using 25329679 bytes
  85i,16n,99p,1375b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/ana.appy/Library/Fonts/Times New Roman.ttf></usr/local/texlive/2025/texmf-di
@@ -1907,7 +1909,7 @@ ular-bold-mi.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lm
 mono8-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/type1/arkandis/adfor
 n/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
 ts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (90 pages, 710867 bytes).
+Output written on LIVRO.pdf (90 pages, 711304 bytes).
 
 PDF statistics: 348 PDF objects out of 1000 (max. 8388607)
  229 compressed objects within 3 object streams
