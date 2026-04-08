@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  8 APR 2026 11:38
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  8 APR 2026 14:00
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1482,7 +1482,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 [7])
 
-[8] (./NOTA.tex) (./FEITO.tex
+[8] (./NOTA.tex
+Inserting `luaotfload.letterspace' in `pre_linebreak_filter'.
+Inserting `luaotfload.letterspace' in `hpack_filter'.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+) (./FEITO.tex
 
 [9
 
@@ -1493,16 +1502,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ]
 
-[11]
-Inserting `luaotfload.letterspace' in `pre_linebreak_filter'.
-Inserting `luaotfload.letterspace' in `hpack_filter'.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 54.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 54.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 54.
-) (./YANOMAMI.tex
+[11]) (./YANOMAMI.tex
 
 [12]) (./TEXTO.tex
 Overfull \hbox (5.44902pt too wide) in paragraph at lines 8--5
@@ -1882,11 +1882,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  25396 strings out of 475506
  156333,1373583 words of node,token memory allocated
- 4610 words of node memory still in use:
+ 4602 words of node memory still in use:
    7 hlist, 1 vlist, 1 rule, 70 disc, 1 local_par, 12 glue, 6 kern, 1 penalty, 1
- margin_kern, 148 glyph, 582 attribute, 187 glue_spec, 191 attribute_list, 3 sha
+ margin_kern, 148 glyph, 579 attribute, 187 glue_spec, 190 attribute_list, 3 sha
 pe, 5 write, 4 pdf_colorstack nodes
-   avail lists: 1:7,2:23064,3:537,4:254,5:1185,6:194,7:7498,8:4,9:868,10:32,11:5
+   avail lists: 1:7,2:23064,3:539,4:254,5:1184,6:194,7:7498,8:4,9:868,10:32,11:5
 82
  47683 multiletter control sequences out of 65536+600000
  104 fonts using 24954471 bytes
@@ -1901,7 +1901,7 @@ ular-bold-mi.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lm
 mono8-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/type1/arkandis/adfor
 n/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
 ts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (88 pages, 705392 bytes).
+Output written on LIVRO.pdf (88 pages, 705565 bytes).
 
 PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
  225 compressed objects within 3 object streams
