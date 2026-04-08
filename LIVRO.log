@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  8 APR 2026 14:00
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  8 APR 2026 14:24
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1880,7 +1880,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25396 strings out of 475506
+ 25397 strings out of 475506
  156333,1373583 words of node,token memory allocated
  4602 words of node memory still in use:
    7 hlist, 1 vlist, 1 rule, 70 disc, 1 local_par, 12 glue, 6 kern, 1 penalty, 1
@@ -1888,8 +1888,8 @@ Here is how much of LuaTeX's memory you used:
 pe, 5 write, 4 pdf_colorstack nodes
    avail lists: 1:7,2:23064,3:539,4:254,5:1184,6:194,7:7498,8:4,9:868,10:32,11:5
 82
- 47683 multiletter control sequences out of 65536+600000
- 104 fonts using 24954471 bytes
+ 47684 multiletter control sequences out of 65536+600000
+ 105 fonts using 25382639 bytes
  85i,16n,99p,1375b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/ana.appy/Library/Fonts/Times New Roman.ttf></usr/local/texlive/2025/texmf-di
@@ -1901,7 +1901,7 @@ ular-bold-mi.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lm
 mono8-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/type1/arkandis/adfor
 n/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
 ts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (88 pages, 705565 bytes).
+Output written on LIVRO.pdf (88 pages, 705782 bytes).
 
 PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
  225 compressed objects within 3 object streams
