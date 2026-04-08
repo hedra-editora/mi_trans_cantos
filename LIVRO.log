@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  8 APR 2026 11:17
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  8 APR 2026 11:37
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1833,11 +1833,7 @@ Package lettrine.sty Info: Targeted height = 18.6589pt
 
 [86]
 
-[87]
-
-[88])
-
-[89] (./Z-colofon.tex
+[87]) (./Z-colofon.tex
 LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input
  line 34.
 
@@ -1848,7 +1844,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 35.
 ))
 
-[90]
+[88]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1882,23 +1878,19 @@ L3 programming layer <2020/03/25>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 7 (\begingroup)
-### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 25398 strings out of 475506
- 156328,1373583 words of node,token memory allocated
- 4729 words of node memory still in use:
-   8 hlist, 1 vlist, 2 rule, 70 disc, 1 local_par, 12 glue, 5 kern, 1 penalty, 1
-47 glyph, 605 attribute, 198 glue_spec, 199 attribute_list, 3 shape, 5 write, 4 
-pdf_colorstack nodes
-   avail lists: 1:7,2:23624,3:532,4:257,5:1176,6:194,7:7819,8:3,9:863,10:32,11:6
-01
- 47685 multiletter control sequences out of 65536+600000
- 105 fonts using 25329679 bytes
- 85i,16n,99p,1375b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 25396 strings out of 475506
+ 156333,1373583 words of node,token memory allocated
+ 4610 words of node memory still in use:
+   7 hlist, 1 vlist, 1 rule, 70 disc, 1 local_par, 12 glue, 6 kern, 1 penalty, 1
+ margin_kern, 148 glyph, 582 attribute, 187 glue_spec, 191 attribute_list, 3 sha
+pe, 5 write, 4 pdf_colorstack nodes
+   avail lists: 1:7,2:23064,3:537,4:254,5:1185,6:194,7:7498,8:4,9:868,10:32,11:5
+82
+ 47683 multiletter control sequences out of 65536+600000
+ 104 fonts using 24954471 bytes
+ 85i,16n,99p,1375b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/ana.appy/Library/Fonts/Times New Roman.ttf></usr/local/texlive/2025/texmf-di
 st/fonts/opentype/public/libertine/LinLibertine_R.otf></usr/local/texlive/2025/t
@@ -1909,10 +1901,10 @@ ular-bold-mi.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lm
 mono8-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/type1/arkandis/adfor
 n/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
 ts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (90 pages, 710926 bytes).
+Output written on LIVRO.pdf (88 pages, 705216 bytes).
 
-PDF statistics: 348 PDF objects out of 1000 (max. 8388607)
- 229 compressed objects within 3 object streams
+PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
