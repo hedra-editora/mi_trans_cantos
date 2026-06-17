@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  17 APR 2026 14:30
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.3.14)  17 JUN 2026 12:01
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1888,7 +1888,7 @@ pe, 5 write, 4 pdf_colorstack nodes
    avail lists: 1:7,2:22717,3:531,4:249,5:1186,6:196,7:7441,8:3,9:861,10:32,11:5
 79
  47684 multiletter control sequences out of 65536+600000
- 105 fonts using 25382639 bytes
+ 105 fonts using 25383759 bytes
  85i,16n,99p,1375b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/ana.appy/Library/Fonts/Times New Roman.ttf></usr/local/texlive/2025/texmf-di
@@ -1900,7 +1900,7 @@ ular-bold-mi.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lm
 mono8-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/type1/arkandis/adfor
 n/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
 ts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (88 pages, 708099 bytes).
+Output written on LIVRO.pdf (88 pages, 708046 bytes).
 
 PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
  225 compressed objects within 3 object streams
